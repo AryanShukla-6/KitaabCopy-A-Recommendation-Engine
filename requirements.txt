@@ -1,0 +1,11 @@
+duckdb>=1.0
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.3
+pyarrow>=14
+joblib>=1.3
+streamlit>=1.30
+pytest>=8.0
+# optional: dense embeddings for hybrid retrieval (python -m kitaabcopy.build_index --embeddings)
+# sentence-transformers>=2.7
