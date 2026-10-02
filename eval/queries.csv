@@ -1,0 +1,51 @@
+query_id,subject,level,genre
+q000,Machine Learning,Beginner,Practical
+q001,Deep Learning,Beginner,Theoretical
+q002,Artificial Intelligence,Intermediate,Practical
+q003,Reinforcement Learning,Intermediate,Theoretical
+q004,NLP,Expert,Practical
+q005,Computer Vision,Expert,Theoretical
+q006,Evolutionary Computing,Beginner,Practical
+q007,Data Science,Beginner,Theoretical
+q008,Algorithms,Intermediate,Practical
+q009,Data Structures,Intermediate,Theoretical
+q010,C++,Expert,Practical
+q011,C,Expert,Theoretical
+q012,Python,Beginner,Practical
+q013,Java,Beginner,Theoretical
+q014,JavaScript,Intermediate,Practical
+q015,Operating Systems,Intermediate,Theoretical
+q016,Computer Networks,Expert,Practical
+q017,Databases,Expert,Theoretical
+q018,Compilers,Beginner,Practical
+q019,Computer Architecture,Beginner,Theoretical
+q020,Cryptography,Intermediate,Practical
+q021,Distributed Systems,Intermediate,Theoretical
+q022,Software Engineering,Expert,Practical
+q023,Design Patterns,Expert,Theoretical
+q024,Theory of Computation,Beginner,Practical
+q025,Computer Graphics,Beginner,Theoretical
+q026,Robotics,Intermediate,Practical
+q027,Information Retrieval,Intermediate,Theoretical
+q028,Rust,Expert,Practical
+q029,Quantum Computing,Expert,Theoretical
+q030,Machine Learning,Intermediate,Theoretical
+q031,Deep Learning,Expert,Practical
+q032,Artificial Intelligence,Expert,Theoretical
+q033,Reinforcement Learning,Beginner,Practical
+q034,NLP,Beginner,Theoretical
+q035,Computer Vision,Intermediate,Practical
+q036,Evolutionary Computing,Intermediate,Theoretical
+q037,Data Science,Expert,Practical
+q038,Algorithms,Expert,Theoretical
+q039,Data Structures,Beginner,Practical
+q040,C++,Beginner,Theoretical
+q041,C,Intermediate,Practical
+q042,Python,Intermediate,Theoretical
+q043,Java,Expert,Practical
+q044,JavaScript,Expert,Theoretical
+q045,Operating Systems,Beginner,Practical
+q046,Computer Networks,Beginner,Theoretical
+q047,Databases,Intermediate,Practical
+q048,Compilers,Intermediate,Theoretical
+q049,Computer Architecture,Expert,Practical
